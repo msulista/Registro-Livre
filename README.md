@@ -1,3 +1,7 @@
+#Aceleradora de metodologias Ágil 6
+Participei deste projeto com duração de 4 meses.
+
+
 ![alt tag](http://i.imgur.com/CguDLcL.png?1)
 
 # Registro Livre
